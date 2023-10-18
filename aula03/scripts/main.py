@@ -1,8 +1,8 @@
 import json
-import os
 import requests
 import urllib.parse
 import pandas as pd
+from datetime import datetime, date
 from config import configs_work, configs_dw
 from utils import Saneamento, sw_work_to_dw
 
@@ -22,9 +22,8 @@ def ingestion(page):
 
     return payload
 
-
 def preparation_work(payload):
-    
+
     if len(payload) > 0:
         for key in payload:
             json_data = json.load(open(payload[key]))
@@ -41,10 +40,10 @@ def preparation_work(payload):
 
     return True
 
+
+
 if __name__ == '__main__':
-    for j in range(1,10):
+    for j in range(1,3):
         payload = ingestion(j)
         preparation_work(payload)
     sw_work_to_dw(configs_work, configs_dw)
-
-

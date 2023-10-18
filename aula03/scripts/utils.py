@@ -2,10 +2,10 @@ from datetime import date
 import os
 import re
 import pandas as pd
-import unicodedata
-    
-class Saneamento:
 
+
+class Saneamento:
+    
     def __init__(self, data, configs, tabela):
         self.data = data
         self.metadado =  pd.read_excel(configs[tabela]["meta_path"])
@@ -53,6 +53,8 @@ class Saneamento:
         else:
             self.data.to_csv(self.path_work, index=False, mode='a', header=False, sep = ";")
 
+
+
 def split_string_list(data, col, qtd):
     df = data.copy()
     df['col_temp'] = df[col].map(lambda x: x.strip('][').split(', '))
@@ -62,6 +64,7 @@ def split_string_list(data, col, qtd):
         df[col] = df['col_temp'].apply(lambda x: 0 if x==[''] else [y.replace("'", "") for y in x ] )
 
     return df[col]
+
 
 def sw_work_to_dw(configs_work, configs_dw):
     people = pd.read_csv(configs_work['people']['path_work'], sep=";")
@@ -86,4 +89,3 @@ def sw_work_to_dw(configs_work, configs_dw):
     sw.to_csv(configs_dw['dw_path'], index=False)
 
     return True
-

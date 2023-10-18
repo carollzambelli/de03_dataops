@@ -1,25 +1,31 @@
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+
 configs_work = {
     'people':{
-        "endpoint": 'https://swapi.dev/api/people/?',
-        "raw_path": 'C:/Users/Carolina Zambelli/OneDrive/Impacta/DataOps_DE03/aula03/data/raw/people_$id.json',
-        "meta_path":'C:/Users/Carolina Zambelli/OneDrive/Impacta/DataOps_DE03/aula03/metadado/people_metadado_to_work.xlsx',
-        "path_work": 'C:/Users/Carolina Zambelli/OneDrive/Impacta/DataOps_DE03/aula03/data/work/people.csv',
+        "endpoint": os.environ.get('people_endpoint'),
+        "raw_path": os.environ.get('people_raw_path'),
+        "meta_path": os.environ.get('people_meta_path'),
+        "path_work": os.environ.get('people_path_work')
     },    
     'planets':{
-        "endpoint": 'https://swapi.dev/api/planets/?',
-        "raw_path": 'C:/Users/Carolina Zambelli/OneDrive/Impacta/DataOps_DE03/aula03/data/raw/planets_$id.json',
-        "meta_path":'C:/Users/Carolina Zambelli/OneDrive/Impacta/DataOps_DE03/aula03/metadado/planets_metadado_to_work.xlsx',
-        "path_work": 'C:/Users/Carolina Zambelli/OneDrive/Impacta/DataOps_DE03/aula03/data/work/planets.csv',
+        "endpoint": os.environ.get('planets_endpoint'),
+        "raw_path": os.environ.get('planets_raw_path'),
+        "meta_path": os.environ.get('planets_meta_path'),
+        "path_work": os.environ.get('planets_path_work')
     }, 
     'films':{
-        "endpoint": 'https://swapi.dev/api/films/?',
-        "raw_path": 'C:/Users/Carolina Zambelli/OneDrive/Impacta/DataOps_DE03/aula03/data/raw/films_$id.json',
-        "meta_path":'C:/Users/Carolina Zambelli/OneDrive/Impacta/DataOps_DE03/aula03/metadado/films_metadado_to_work.xlsx',
-        "path_work": 'C:/Users/Carolina Zambelli/OneDrive/Impacta/DataOps_DE03/aula03/data/work/films.csv',
+        "endpoint": os.environ.get('films_endpoint'),
+        "raw_path": os.environ.get('films_raw_path'),
+        "meta_path": os.environ.get('films_meta_path'),
+        "path_work": os.environ.get('films_path_work')
     }
 }
 
 configs_dw = {
-        "meta_path":'C:/Users/Carolina Zambelli/OneDrive/Impacta/DataOps_DE03/aula03/metadado/sw_metadado_to_dw.xlsx',
-        "dw_path": 'C:/Users/Carolina Zambelli/OneDrive/Impacta/DataOps_DE03/aula03/data/dw/sw.csv'
+        "meta_path": os.environ.get('dw_meta_path'),
+        "dw_path": os.environ.get('dw_path')
 }
