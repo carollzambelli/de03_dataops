@@ -1,0 +1,83 @@
+nome,altura,peso,cor_cabelo,cor_pelo,cor_olho,ano_nascimento,genero,planeta_natal,qtd_veiculos,qtd_naves,the_phantom_menace,attack_of_the_clones,revenge_of_the_sith,a_new_hope,the_empire_strikes_back,return_of_the_jedi
+luke skywalker,172.0,77.0,blond,fair,blue,19bby,male,tatooine,2,2,0,0,1,1,1,1
+c-3po,167.0,75.0,,gold,yellow,112bby,,tatooine,0,0,1,1,1,1,1,1
+darth vader,202.0,136.0,none,white,yellow,41.9bby,male,tatooine,0,1,0,0,1,1,1,1
+owen lars,178.0,120.0,"brown, grey",light,blue,52bby,male,tatooine,0,0,0,1,1,1,0,0
+beru whitesun lars,165.0,75.0,brown,light,blue,47bby,female,tatooine,0,0,0,1,1,1,0,0
+r5-d4,97.0,32.0,,"white, red",red,,,tatooine,0,0,0,0,0,1,0,0
+biggs darklighter,183.0,84.0,black,light,brown,24bby,male,tatooine,0,1,0,0,0,1,0,0
+anakin skywalker,188.0,84.0,blond,fair,blue,41.9bby,male,tatooine,2,3,1,1,1,0,0,0
+shmi skywalker,163.0,,black,fair,brown,72bby,female,tatooine,0,0,1,1,0,0,0,0
+cliegg lars,183.0,,brown,fair,blue,82bby,male,tatooine,0,0,0,1,0,0,0,0
+r2-d2,96.0,32.0,,"white, blue",red,33bby,,naboo,0,0,1,1,1,1,1,1
+palpatine,170.0,75.0,grey,pale,yellow,82bby,male,naboo,0,0,1,1,1,0,1,1
+padm amidala,185.0,45.0,brown,light,brown,46bby,female,naboo,0,3,1,1,1,0,0,0
+jar jar binks,196.0,66.0,none,orange,orange,52bby,male,naboo,0,0,1,1,0,0,0,0
+roos tarpals,224.0,82.0,none,grey,orange,,male,naboo,0,0,1,0,0,0,0,0
+rugor nass,206.0,,none,green,orange,,male,naboo,0,0,1,0,0,0,0,0
+ric oli,183.0,,brown,fair,blue,,male,naboo,0,1,1,0,0,0,0,0
+quarsh panaka,183.0,,black,dark,brown,62bby,male,naboo,0,0,1,0,0,0,0,0
+gregar typho,185.0,85.0,black,dark,brown,,male,naboo,0,1,0,1,0,0,0,0
+cord,157.0,,brown,light,brown,,female,naboo,0,0,0,1,0,0,0,0
+dorm,165.0,,brown,light,brown,,female,naboo,0,0,0,1,0,0,0,0
+leia organa,150.0,49.0,brown,light,brown,19bby,female,alderaan,1,0,0,0,1,1,1,1
+bail prestor organa,191.0,,black,tan,brown,67bby,male,alderaan,0,0,0,1,1,0,0,0
+raymus antilles,188.0,79.0,brown,light,brown,,male,alderaan,0,0,0,0,1,1,0,0
+obi-wan kenobi,182.0,77.0,"auburn, white",fair,blue-gray,57bby,male,stewjon,1,5,1,1,1,1,1,1
+wilhuff tarkin,180.0,,"auburn, grey",fair,blue,64bby,male,eriadu,0,0,0,0,1,1,0,0
+chewbacca,228.0,112.0,brown,,blue,200bby,male,kashyyyk,1,2,0,0,1,1,1,1
+tarfful,234.0,136.0,brown,brown,blue,,male,kashyyyk,0,0,0,0,1,0,0,0
+han solo,180.0,80.0,brown,fair,brown,29bby,male,corellia,0,2,0,0,0,1,1,1
+wedge antilles,170.0,77.0,brown,fair,hazel,21bby,male,corellia,1,1,0,0,0,1,1,1
+greedo,173.0,74.0,,green,black,44bby,male,rodia,0,0,0,0,0,1,0,0
+jabba desilijic tiure,175.0,1.358,,"green-tan, brown",orange,600bby,hermaphrodite,nal hutta,0,0,1,0,0,1,0,1
+jek tono porkins,180.0,110.0,brown,fair,blue,,male,bestine iv,0,1,0,0,0,1,0,0
+yoda,66.0,17.0,white,green,brown,896bby,male,,0,0,1,1,1,0,1,1
+ig-88,200.0,140.0,none,metal,red,15bby,none,,0,0,0,0,0,0,1,0
+arvel crynyd,,,brown,fair,brown,,male,,0,1,0,0,0,0,0,1
+qui-gon jinn,193.0,89.0,brown,fair,blue,92bby,male,,1,0,1,0,0,0,0,0
+r4-p17,96.0,,none,"silver, red","red, blue",,female,,0,0,0,1,1,0,0,0
+boba fett,183.0,78.2,black,fair,brown,31.5bby,male,kamino,0,1,0,1,0,0,1,1
+lama su,229.0,88.0,none,grey,black,,male,kamino,0,0,0,1,0,0,0,0
+taun we,213.0,,none,grey,black,,female,kamino,0,0,0,1,0,0,0,0
+bossk,190.0,113.0,none,green,red,53bby,male,trandosha,0,0,0,0,0,0,1,0
+lando calrissian,177.0,79.0,black,dark,brown,31bby,male,socorro,0,1,0,0,0,0,1,1
+lobot,175.0,79.0,none,light,blue,37bby,male,bespin,0,0,0,0,0,0,1,0
+ackbar,180.0,83.0,none,brown mottle,orange,41bby,male,mon cala,0,0,0,0,0,0,0,1
+mon mothma,150.0,,auburn,fair,blue,48bby,female,chandrila,0,0,0,0,0,0,0,1
+wicket systri warrick,88.0,20.0,brown,brown,brown,8bby,male,endor,0,0,0,0,0,0,0,1
+nien nunb,160.0,68.0,none,grey,black,,male,sullust,0,1,0,0,0,0,0,1
+nute gunray,191.0,90.0,none,mottled green,red,,male,cato neimoidia,0,0,1,1,1,0,0,0
+finis valorum,170.0,,blond,fair,blue,91bby,male,coruscant,0,0,1,0,0,0,0,0
+adi gallia,184.0,50.0,none,dark,blue,,female,coruscant,0,0,1,0,1,0,0,0
+jocasta nu,167.0,,white,fair,blue,,female,coruscant,0,0,0,1,0,0,0,0
+watto,137.0,,black,"blue, grey",yellow,,male,toydaria,0,0,1,1,0,0,0,0
+sebulba,112.0,40.0,none,"grey, red",orange,,male,malastare,0,0,1,0,0,0,0,0
+darth maul,175.0,80.0,none,red,yellow,54bby,male,dathomir,1,1,1,0,0,0,0,0
+bib fortuna,180.0,,none,pale,pink,,male,ryloth,0,0,0,0,0,0,0,1
+ayla secura,178.0,55.0,none,blue,hazel,48bby,female,ryloth,0,0,1,1,1,0,0,0
+ratts tyerel,79.0,15.0,none,"grey, blue",,,male,aleen minor,0,0,1,0,0,0,0,0
+dud bolt,94.0,45.0,none,"blue, grey",yellow,,male,vulpter,0,0,1,0,0,0,0,0
+gasgano,122.0,,none,"white, blue",black,,male,troiken,0,0,1,0,0,0,0,0
+ben quadinaros,163.0,65.0,none,"grey, green, yellow",orange,,male,tund,0,0,1,0,0,0,0,0
+mace windu,188.0,84.0,none,dark,brown,72bby,male,haruun kal,0,0,1,1,1,0,0,0
+ki-adi-mundi,198.0,82.0,white,pale,yellow,92bby,male,cerea,0,0,1,1,1,0,0,0
+kit fisto,196.0,87.0,none,green,black,,male,glee anselm,0,0,1,1,1,0,0,0
+eeth koth,171.0,,black,brown,brown,,male,iridonia,0,0,1,0,1,0,0,0
+saesee tiin,188.0,,none,pale,orange,,male,iktotch,0,0,1,0,1,0,0,0
+yarael poof,264.0,,none,white,yellow,,male,quermia,0,0,1,0,0,0,0,0
+plo koon,188.0,80.0,none,orange,black,22bby,male,dorin,0,1,1,1,1,0,0,0
+mas amedda,196.0,,none,blue,blue,,male,champala,0,0,1,1,0,0,0,0
+poggle the lesser,183.0,80.0,none,green,yellow,,male,geonosis,0,0,0,1,1,0,0,0
+luminara unduli,170.0,56.2,black,yellow,blue,58bby,female,mirial,0,0,0,1,1,0,0,0
+barriss offee,166.0,50.0,black,yellow,blue,40bby,female,mirial,0,0,0,1,0,0,0,0
+dooku,193.0,80.0,white,fair,brown,102bby,male,serenno,1,0,0,1,1,0,0,0
+jango fett,183.0,79.0,black,tan,brown,66bby,male,concord dawn,0,0,0,1,0,0,0,0
+zam wesell,168.0,55.0,blonde,"fair, green, yellow",yellow,,female,zolan,1,0,0,1,0,0,0,0
+dexter jettster,198.0,102.0,none,brown,yellow,,male,ojom,0,0,0,1,0,0,0,0
+wat tambor,193.0,48.0,none,"green, grey",,,male,skako,0,0,0,1,0,0,0,0
+san hill,191.0,,none,grey,gold,,male,muunilinst,0,0,0,1,0,0,0,0
+shaak ti,178.0,57.0,none,"red, blue, white",black,,female,shili,0,0,0,1,1,0,0,0
+grievous,216.0,159.0,none,"brown, white","green, yellow",,male,kalee,1,1,0,0,1,0,0,0
+sly moore,178.0,48.0,none,pale,white,,female,umbara,0,0,0,1,1,0,0,0
+tion medon,206.0,80.0,none,grey,black,,male,utapau,0,0,0,0,1,0,0,0

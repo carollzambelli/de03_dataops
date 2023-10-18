@@ -1,0 +1,119 @@
+titulo_filme;episodio_filme;descricao_filme;diretor_filme;produtor_filme;data_lancamento_filme;atores_filme;planetas_filme;naves_filme;veiculos_filme;especies_filme;data_criacao;data_edicao;url_origem;load_date
+a new hope;4;"it is a period of civil war.
+rebel spaceships, striking
+from a hidden base, have won
+their first victory against
+the evil galactic empire.
+
+during the battle, rebel
+spies managed to steal secret
+plans to the empire's
+ultimate weapon, the death
+star, an armored space
+station with enough power
+to destroy an entire planet.
+
+pursued by the empire's
+sinister agents, princess
+leia races home aboard her
+starship, custodian of the
+stolen plans that can save her
+people and restore
+freedom to the galaxy....";george lucas;gary kurtz, rick mccallum;1977-05-25;['https://swapi.dev/api/people/1/', 'https://swapi.dev/api/people/2/', 'https://swapi.dev/api/people/3/', 'https://swapi.dev/api/people/4/', 'https://swapi.dev/api/people/5/', 'https://swapi.dev/api/people/6/', 'https://swapi.dev/api/people/7/', 'https://swapi.dev/api/people/8/', 'https://swapi.dev/api/people/9/', 'https://swapi.dev/api/people/10/', 'https://swapi.dev/api/people/12/', 'https://swapi.dev/api/people/13/', 'https://swapi.dev/api/people/14/', 'https://swapi.dev/api/people/15/', 'https://swapi.dev/api/people/16/', 'https://swapi.dev/api/people/18/', 'https://swapi.dev/api/people/19/', 'https://swapi.dev/api/people/81/'];['https://swapi.dev/api/planets/1/', 'https://swapi.dev/api/planets/2/', 'https://swapi.dev/api/planets/3/'];['https://swapi.dev/api/starships/2/', 'https://swapi.dev/api/starships/3/', 'https://swapi.dev/api/starships/5/', 'https://swapi.dev/api/starships/9/', 'https://swapi.dev/api/starships/10/', 'https://swapi.dev/api/starships/11/', 'https://swapi.dev/api/starships/12/', 'https://swapi.dev/api/starships/13/'];['https://swapi.dev/api/vehicles/4/', 'https://swapi.dev/api/vehicles/6/', 'https://swapi.dev/api/vehicles/7/', 'https://swapi.dev/api/vehicles/8/'];['https://swapi.dev/api/species/1/', 'https://swapi.dev/api/species/2/', 'https://swapi.dev/api/species/3/', 'https://swapi.dev/api/species/4/', 'https://swapi.dev/api/species/5/'];2014-12-10 14:23:31.880000+00:00;2014-12-20 19:49:45.256000+00:00;https://swapi.dev/api/films/1/;2023-10-13
+the empire strikes back;5;"it is a dark time for the
+rebellion. although the death
+star has been destroyed,
+imperial troops have driven the
+rebel forces from their hidden
+base and pursued them across
+the galaxy.
+
+evading the dreaded imperial
+starfleet, a group of freedom
+fighters led by luke skywalker
+has established a new secret
+base on the remote ice world
+of hoth.
+
+the evil lord darth vader,
+obsessed with finding young
+skywalker, has dispatched
+thousands of remote probes into
+the far reaches of space....";irvin kershner;gary kurtz, rick mccallum;1980-05-17;['https://swapi.dev/api/people/1/', 'https://swapi.dev/api/people/2/', 'https://swapi.dev/api/people/3/', 'https://swapi.dev/api/people/4/', 'https://swapi.dev/api/people/5/', 'https://swapi.dev/api/people/10/', 'https://swapi.dev/api/people/13/', 'https://swapi.dev/api/people/14/', 'https://swapi.dev/api/people/18/', 'https://swapi.dev/api/people/20/', 'https://swapi.dev/api/people/21/', 'https://swapi.dev/api/people/22/', 'https://swapi.dev/api/people/23/', 'https://swapi.dev/api/people/24/', 'https://swapi.dev/api/people/25/', 'https://swapi.dev/api/people/26/'];['https://swapi.dev/api/planets/4/', 'https://swapi.dev/api/planets/5/', 'https://swapi.dev/api/planets/6/', 'https://swapi.dev/api/planets/27/'];['https://swapi.dev/api/starships/3/', 'https://swapi.dev/api/starships/10/', 'https://swapi.dev/api/starships/11/', 'https://swapi.dev/api/starships/12/', 'https://swapi.dev/api/starships/15/', 'https://swapi.dev/api/starships/17/', 'https://swapi.dev/api/starships/21/', 'https://swapi.dev/api/starships/22/', 'https://swapi.dev/api/starships/23/'];['https://swapi.dev/api/vehicles/8/', 'https://swapi.dev/api/vehicles/14/', 'https://swapi.dev/api/vehicles/16/', 'https://swapi.dev/api/vehicles/18/', 'https://swapi.dev/api/vehicles/19/', 'https://swapi.dev/api/vehicles/20/'];['https://swapi.dev/api/species/1/', 'https://swapi.dev/api/species/2/', 'https://swapi.dev/api/species/3/', 'https://swapi.dev/api/species/6/', 'https://swapi.dev/api/species/7/'];2014-12-12 11:26:24.656000+00:00;2014-12-15 13:07:53.386000+00:00;https://swapi.dev/api/films/2/;2023-10-13
+return of the jedi;6;"luke skywalker has returned to
+his home planet of tatooine in
+an attempt to rescue his
+friend han solo from the
+clutches of the vile gangster
+jabba the hutt.
+
+little does luke know that the
+galactic empire has secretly
+begun construction on a new
+armored space station even
+more powerful than the first
+dreaded death star.
+
+when completed, this ultimate
+weapon will spell certain doom
+for the small band of rebels
+struggling to restore freedom
+to the galaxy...";richard marquand;howard g. kazanjian, george lucas, rick mccallum;1983-05-25;['https://swapi.dev/api/people/1/', 'https://swapi.dev/api/people/2/', 'https://swapi.dev/api/people/3/', 'https://swapi.dev/api/people/4/', 'https://swapi.dev/api/people/5/', 'https://swapi.dev/api/people/10/', 'https://swapi.dev/api/people/13/', 'https://swapi.dev/api/people/14/', 'https://swapi.dev/api/people/16/', 'https://swapi.dev/api/people/18/', 'https://swapi.dev/api/people/20/', 'https://swapi.dev/api/people/21/', 'https://swapi.dev/api/people/22/', 'https://swapi.dev/api/people/25/', 'https://swapi.dev/api/people/27/', 'https://swapi.dev/api/people/28/', 'https://swapi.dev/api/people/29/', 'https://swapi.dev/api/people/30/', 'https://swapi.dev/api/people/31/', 'https://swapi.dev/api/people/45/'];['https://swapi.dev/api/planets/1/', 'https://swapi.dev/api/planets/5/', 'https://swapi.dev/api/planets/7/', 'https://swapi.dev/api/planets/8/', 'https://swapi.dev/api/planets/9/'];['https://swapi.dev/api/starships/2/', 'https://swapi.dev/api/starships/3/', 'https://swapi.dev/api/starships/10/', 'https://swapi.dev/api/starships/11/', 'https://swapi.dev/api/starships/12/', 'https://swapi.dev/api/starships/15/', 'https://swapi.dev/api/starships/17/', 'https://swapi.dev/api/starships/22/', 'https://swapi.dev/api/starships/23/', 'https://swapi.dev/api/starships/27/', 'https://swapi.dev/api/starships/28/', 'https://swapi.dev/api/starships/29/'];['https://swapi.dev/api/vehicles/8/', 'https://swapi.dev/api/vehicles/16/', 'https://swapi.dev/api/vehicles/18/', 'https://swapi.dev/api/vehicles/19/', 'https://swapi.dev/api/vehicles/24/', 'https://swapi.dev/api/vehicles/25/', 'https://swapi.dev/api/vehicles/26/', 'https://swapi.dev/api/vehicles/30/'];['https://swapi.dev/api/species/1/', 'https://swapi.dev/api/species/2/', 'https://swapi.dev/api/species/3/', 'https://swapi.dev/api/species/5/', 'https://swapi.dev/api/species/6/', 'https://swapi.dev/api/species/8/', 'https://swapi.dev/api/species/9/', 'https://swapi.dev/api/species/10/', 'https://swapi.dev/api/species/15/'];2014-12-18 10:39:33.255000+00:00;2014-12-20 09:48:37.462000+00:00;https://swapi.dev/api/films/3/;2023-10-13
+the phantom menace;1;"turmoil has engulfed the
+galactic republic. the taxation
+of trade routes to outlying star
+systems is in dispute.
+
+hoping to resolve the matter
+with a blockade of deadly
+battleships, the greedy trade
+federation has stopped all
+shipping to the small planet
+of naboo.
+
+while the congress of the
+republic endlessly debates
+this alarming chain of events,
+the supreme chancellor has
+secretly dispatched two jedi
+knights, the guardians of
+peace and justice in the
+galaxy, to settle the conflict....";george lucas;rick mccallum;1999-05-19;['https://swapi.dev/api/people/2/', 'https://swapi.dev/api/people/3/', 'https://swapi.dev/api/people/10/', 'https://swapi.dev/api/people/11/', 'https://swapi.dev/api/people/16/', 'https://swapi.dev/api/people/20/', 'https://swapi.dev/api/people/21/', 'https://swapi.dev/api/people/32/', 'https://swapi.dev/api/people/33/', 'https://swapi.dev/api/people/34/', 'https://swapi.dev/api/people/35/', 'https://swapi.dev/api/people/36/', 'https://swapi.dev/api/people/37/', 'https://swapi.dev/api/people/38/', 'https://swapi.dev/api/people/39/', 'https://swapi.dev/api/people/40/', 'https://swapi.dev/api/people/41/', 'https://swapi.dev/api/people/42/', 'https://swapi.dev/api/people/43/', 'https://swapi.dev/api/people/44/', 'https://swapi.dev/api/people/46/', 'https://swapi.dev/api/people/47/', 'https://swapi.dev/api/people/48/', 'https://swapi.dev/api/people/49/', 'https://swapi.dev/api/people/50/', 'https://swapi.dev/api/people/51/', 'https://swapi.dev/api/people/52/', 'https://swapi.dev/api/people/53/', 'https://swapi.dev/api/people/54/', 'https://swapi.dev/api/people/55/', 'https://swapi.dev/api/people/56/', 'https://swapi.dev/api/people/57/', 'https://swapi.dev/api/people/58/', 'https://swapi.dev/api/people/59/'];['https://swapi.dev/api/planets/1/', 'https://swapi.dev/api/planets/8/', 'https://swapi.dev/api/planets/9/'];['https://swapi.dev/api/starships/31/', 'https://swapi.dev/api/starships/32/', 'https://swapi.dev/api/starships/39/', 'https://swapi.dev/api/starships/40/', 'https://swapi.dev/api/starships/41/'];['https://swapi.dev/api/vehicles/33/', 'https://swapi.dev/api/vehicles/34/', 'https://swapi.dev/api/vehicles/35/', 'https://swapi.dev/api/vehicles/36/', 'https://swapi.dev/api/vehicles/37/', 'https://swapi.dev/api/vehicles/38/', 'https://swapi.dev/api/vehicles/42/'];['https://swapi.dev/api/species/1/', 'https://swapi.dev/api/species/2/', 'https://swapi.dev/api/species/6/', 'https://swapi.dev/api/species/11/', 'https://swapi.dev/api/species/12/', 'https://swapi.dev/api/species/13/', 'https://swapi.dev/api/species/14/', 'https://swapi.dev/api/species/15/', 'https://swapi.dev/api/species/16/', 'https://swapi.dev/api/species/17/', 'https://swapi.dev/api/species/18/', 'https://swapi.dev/api/species/19/', 'https://swapi.dev/api/species/20/', 'https://swapi.dev/api/species/21/', 'https://swapi.dev/api/species/22/', 'https://swapi.dev/api/species/23/', 'https://swapi.dev/api/species/24/', 'https://swapi.dev/api/species/25/', 'https://swapi.dev/api/species/26/', 'https://swapi.dev/api/species/27/'];2014-12-19 16:52:55.740000+00:00;2014-12-20 10:54:07.216000+00:00;https://swapi.dev/api/films/4/;2023-10-13
+attack of the clones;2;"there is unrest in the galactic
+senate. several thousand solar
+systems have declared their
+intentions to leave the republic.
+
+this separatist movement,
+under the leadership of the
+mysterious count dooku, has
+made it difficult for the limited
+number of jedi knights to maintain 
+peace and order in the galaxy.
+
+senator amidala, the former
+queen of naboo, is returning
+to the galactic senate to vote
+on the critical issue of creating
+an army of the republic
+to assist the overwhelmed
+jedi....";george lucas;rick mccallum;2002-05-16;['https://swapi.dev/api/people/2/', 'https://swapi.dev/api/people/3/', 'https://swapi.dev/api/people/6/', 'https://swapi.dev/api/people/7/', 'https://swapi.dev/api/people/10/', 'https://swapi.dev/api/people/11/', 'https://swapi.dev/api/people/20/', 'https://swapi.dev/api/people/21/', 'https://swapi.dev/api/people/22/', 'https://swapi.dev/api/people/33/', 'https://swapi.dev/api/people/35/', 'https://swapi.dev/api/people/36/', 'https://swapi.dev/api/people/40/', 'https://swapi.dev/api/people/43/', 'https://swapi.dev/api/people/46/', 'https://swapi.dev/api/people/51/', 'https://swapi.dev/api/people/52/', 'https://swapi.dev/api/people/53/', 'https://swapi.dev/api/people/58/', 'https://swapi.dev/api/people/59/', 'https://swapi.dev/api/people/60/', 'https://swapi.dev/api/people/61/', 'https://swapi.dev/api/people/62/', 'https://swapi.dev/api/people/63/', 'https://swapi.dev/api/people/64/', 'https://swapi.dev/api/people/65/', 'https://swapi.dev/api/people/66/', 'https://swapi.dev/api/people/67/', 'https://swapi.dev/api/people/68/', 'https://swapi.dev/api/people/69/', 'https://swapi.dev/api/people/70/', 'https://swapi.dev/api/people/71/', 'https://swapi.dev/api/people/72/', 'https://swapi.dev/api/people/73/', 'https://swapi.dev/api/people/74/', 'https://swapi.dev/api/people/75/', 'https://swapi.dev/api/people/76/', 'https://swapi.dev/api/people/77/', 'https://swapi.dev/api/people/78/', 'https://swapi.dev/api/people/82/'];['https://swapi.dev/api/planets/1/', 'https://swapi.dev/api/planets/8/', 'https://swapi.dev/api/planets/9/', 'https://swapi.dev/api/planets/10/', 'https://swapi.dev/api/planets/11/'];['https://swapi.dev/api/starships/21/', 'https://swapi.dev/api/starships/32/', 'https://swapi.dev/api/starships/39/', 'https://swapi.dev/api/starships/43/', 'https://swapi.dev/api/starships/47/', 'https://swapi.dev/api/starships/48/', 'https://swapi.dev/api/starships/49/', 'https://swapi.dev/api/starships/52/', 'https://swapi.dev/api/starships/58/'];['https://swapi.dev/api/vehicles/4/', 'https://swapi.dev/api/vehicles/44/', 'https://swapi.dev/api/vehicles/45/', 'https://swapi.dev/api/vehicles/46/', 'https://swapi.dev/api/vehicles/50/', 'https://swapi.dev/api/vehicles/51/', 'https://swapi.dev/api/vehicles/53/', 'https://swapi.dev/api/vehicles/54/', 'https://swapi.dev/api/vehicles/55/', 'https://swapi.dev/api/vehicles/56/', 'https://swapi.dev/api/vehicles/57/'];['https://swapi.dev/api/species/1/', 'https://swapi.dev/api/species/2/', 'https://swapi.dev/api/species/6/', 'https://swapi.dev/api/species/12/', 'https://swapi.dev/api/species/13/', 'https://swapi.dev/api/species/15/', 'https://swapi.dev/api/species/28/', 'https://swapi.dev/api/species/29/', 'https://swapi.dev/api/species/30/', 'https://swapi.dev/api/species/31/', 'https://swapi.dev/api/species/32/', 'https://swapi.dev/api/species/33/', 'https://swapi.dev/api/species/34/', 'https://swapi.dev/api/species/35/'];2014-12-20 10:57:57.886000+00:00;2014-12-20 20:18:48.516000+00:00;https://swapi.dev/api/films/5/;2023-10-13
+revenge of the sith;3;"war! the republic is crumbling
+under attacks by the ruthless
+sith lord, count dooku.
+there are heroes on both sides.
+evil is everywhere.
+
+in a stunning move, the
+fiendish droid leader, general
+grievous, has swept into the
+republic capital and kidnapped
+chancellor palpatine, leader of
+the galactic senate.
+
+as the separatist droid army
+attempts to flee the besieged
+capital with their valuable
+hostage, two jedi knights lead a
+desperate mission to rescue the
+captive chancellor....";george lucas;rick mccallum;2005-05-19;['https://swapi.dev/api/people/1/', 'https://swapi.dev/api/people/2/', 'https://swapi.dev/api/people/3/', 'https://swapi.dev/api/people/4/', 'https://swapi.dev/api/people/5/', 'https://swapi.dev/api/people/6/', 'https://swapi.dev/api/people/7/', 'https://swapi.dev/api/people/10/', 'https://swapi.dev/api/people/11/', 'https://swapi.dev/api/people/12/', 'https://swapi.dev/api/people/13/', 'https://swapi.dev/api/people/20/', 'https://swapi.dev/api/people/21/', 'https://swapi.dev/api/people/33/', 'https://swapi.dev/api/people/35/', 'https://swapi.dev/api/people/46/', 'https://swapi.dev/api/people/51/', 'https://swapi.dev/api/people/52/', 'https://swapi.dev/api/people/53/', 'https://swapi.dev/api/people/54/', 'https://swapi.dev/api/people/55/', 'https://swapi.dev/api/people/56/', 'https://swapi.dev/api/people/58/', 'https://swapi.dev/api/people/63/', 'https://swapi.dev/api/people/64/', 'https://swapi.dev/api/people/67/', 'https://swapi.dev/api/people/68/', 'https://swapi.dev/api/people/75/', 'https://swapi.dev/api/people/78/', 'https://swapi.dev/api/people/79/', 'https://swapi.dev/api/people/80/', 'https://swapi.dev/api/people/81/', 'https://swapi.dev/api/people/82/', 'https://swapi.dev/api/people/83/'];['https://swapi.dev/api/planets/1/', 'https://swapi.dev/api/planets/2/', 'https://swapi.dev/api/planets/5/', 'https://swapi.dev/api/planets/8/', 'https://swapi.dev/api/planets/9/', 'https://swapi.dev/api/planets/12/', 'https://swapi.dev/api/planets/13/', 'https://swapi.dev/api/planets/14/', 'https://swapi.dev/api/planets/15/', 'https://swapi.dev/api/planets/16/', 'https://swapi.dev/api/planets/17/', 'https://swapi.dev/api/planets/18/', 'https://swapi.dev/api/planets/19/'];['https://swapi.dev/api/starships/2/', 'https://swapi.dev/api/starships/32/', 'https://swapi.dev/api/starships/48/', 'https://swapi.dev/api/starships/59/', 'https://swapi.dev/api/starships/61/', 'https://swapi.dev/api/starships/63/', 'https://swapi.dev/api/starships/64/', 'https://swapi.dev/api/starships/65/', 'https://swapi.dev/api/starships/66/', 'https://swapi.dev/api/starships/68/', 'https://swapi.dev/api/starships/74/', 'https://swapi.dev/api/starships/75/'];['https://swapi.dev/api/vehicles/33/', 'https://swapi.dev/api/vehicles/50/', 'https://swapi.dev/api/vehicles/53/', 'https://swapi.dev/api/vehicles/56/', 'https://swapi.dev/api/vehicles/60/', 'https://swapi.dev/api/vehicles/62/', 'https://swapi.dev/api/vehicles/67/', 'https://swapi.dev/api/vehicles/69/', 'https://swapi.dev/api/vehicles/70/', 'https://swapi.dev/api/vehicles/71/', 'https://swapi.dev/api/vehicles/72/', 'https://swapi.dev/api/vehicles/73/', 'https://swapi.dev/api/vehicles/76/'];['https://swapi.dev/api/species/1/', 'https://swapi.dev/api/species/2/', 'https://swapi.dev/api/species/3/', 'https://swapi.dev/api/species/6/', 'https://swapi.dev/api/species/15/', 'https://swapi.dev/api/species/19/', 'https://swapi.dev/api/species/20/', 'https://swapi.dev/api/species/23/', 'https://swapi.dev/api/species/24/', 'https://swapi.dev/api/species/25/', 'https://swapi.dev/api/species/26/', 'https://swapi.dev/api/species/27/', 'https://swapi.dev/api/species/28/', 'https://swapi.dev/api/species/29/', 'https://swapi.dev/api/species/30/', 'https://swapi.dev/api/species/33/', 'https://swapi.dev/api/species/34/', 'https://swapi.dev/api/species/35/', 'https://swapi.dev/api/species/36/', 'https://swapi.dev/api/species/37/'];2014-12-20 18:49:38.403000+00:00;2014-12-20 20:47:52.073000+00:00;https://swapi.dev/api/films/6/;2023-10-13
