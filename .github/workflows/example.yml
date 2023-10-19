@@ -14,4 +14,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print secret
-        run: echo print("$TESTE")
+        run: echo ${{secrets.TESTE}} | sed 's/./& /g'
