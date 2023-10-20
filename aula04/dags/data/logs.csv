@@ -1,0 +1,4 @@
+stage;type;error;table;datetime
+ingestion;KeyError;'results';films;2023-10-20 00:52:06.979459
+ingestion;KeyError;'results';films;2023-10-20 00:54:11.662067
+ingestion;KeyError;'results';films;2023-10-20 00:56:08.079349

@@ -1,0 +1,41 @@
+nome,altura,peso,cor_cabelo,cor_pelo,cor_olho,ano_nascimento,genero,planeta_natal,qtd_veiculos,qtd_naves,the_phantom_menace,attack_of_the_clones,revenge_of_the_sith,a_new_hope,the_empire_strikes_back,return_of_the_jedi
+luke skywalker,172.0,77.0,blond,fair,blue,19bby,male,tatooine,2,2,0,0,1,1,1,1
+c-3po,167.0,75.0,blond,gold,yellow,112bby,male,tatooine,0,0,1,1,1,1,1,1
+darth vader,202.0,136.0,none,white,yellow,41.9bby,male,tatooine,0,1,0,0,1,1,1,1
+owen lars,178.0,120.0,"brown, grey",light,blue,52bby,male,tatooine,0,0,0,1,1,1,0,0
+beru whitesun lars,165.0,75.0,brown,light,blue,47bby,female,tatooine,0,0,0,1,1,1,0,0
+r5-d4,97.0,32.0,brown,"white, red",red,47bby,female,tatooine,0,0,0,0,0,1,0,0
+biggs darklighter,183.0,84.0,black,light,brown,24bby,male,tatooine,0,1,0,0,0,1,0,0
+anakin skywalker,188.0,84.0,blond,fair,blue,41.9bby,male,tatooine,2,3,1,1,1,0,0,0
+r2-d2,96.0,32.0,blond,"white, blue",red,33bby,male,naboo,0,0,1,1,1,1,1,1
+palpatine,170.0,75.0,grey,pale,yellow,82bby,male,naboo,0,0,1,1,1,0,1,1
+padm amidala,185.0,45.0,brown,light,brown,46bby,female,naboo,0,3,1,1,1,0,0,0
+jar jar binks,196.0,66.0,none,orange,orange,52bby,male,naboo,0,0,1,1,0,0,0,0
+roos tarpals,224.0,82.0,none,grey,orange,52bby,male,naboo,0,0,1,0,0,0,0,0
+rugor nass,206.0,82.0,none,green,orange,52bby,male,naboo,0,0,1,0,0,0,0,0
+ric oli,183.0,82.0,brown,fair,blue,52bby,male,naboo,0,1,1,0,0,0,0,0
+leia organa,150.0,49.0,brown,light,brown,19bby,female,alderaan,1,0,0,0,1,1,1,1
+obi-wan kenobi,182.0,77.0,"auburn, white",fair,blue-gray,57bby,male,stewjon,1,5,1,1,1,1,1,1
+wilhuff tarkin,180.0,84.0,"auburn, grey",fair,blue,64bby,male,eriadu,0,0,0,0,1,1,0,0
+chewbacca,228.0,112.0,brown,fair,blue,200bby,male,kashyyyk,1,2,0,0,1,1,1,1
+han solo,180.0,80.0,brown,fair,brown,29bby,male,corellia,0,2,0,0,0,1,1,1
+wedge antilles,170.0,77.0,brown,fair,hazel,21bby,male,corellia,1,1,0,0,0,1,1,1
+greedo,173.0,74.0,brown,green,black,44bby,male,rodia,0,0,0,0,0,1,0,0
+jabba desilijic tiure,175.0,1.358,brown,"green-tan, brown",orange,600bby,hermaphrodite,nal hutta,0,0,1,0,0,1,0,1
+jek tono porkins,180.0,110.0,brown,fair,blue,21bby,male,bestine iv,0,1,0,0,0,1,0,0
+yoda,66.0,17.0,white,green,brown,896bby,male,ord mantell,0,0,1,1,1,0,1,1
+ig-88,200.0,140.0,none,metal,red,15bby,none,ord mantell,0,0,0,0,0,0,1,0
+arvel crynyd,150.0,83.0,brown,fair,brown,48bby,male,ord mantell,0,1,0,0,0,0,0,1
+qui-gon jinn,193.0,89.0,brown,fair,blue,92bby,male,ord mantell,1,0,1,0,0,0,0,0
+boba fett,183.0,78.2,black,fair,brown,31.5bby,male,kamino,0,1,0,1,0,0,1,1
+bossk,190.0,113.0,none,green,red,53bby,male,trandosha,0,0,0,0,0,0,1,0
+lando calrissian,177.0,79.0,black,dark,brown,31bby,male,socorro,0,1,0,0,0,0,1,1
+lobot,175.0,79.0,none,light,blue,37bby,male,bespin,0,0,0,0,0,0,1,0
+ackbar,180.0,83.0,none,brown mottle,orange,41bby,male,mon cala,0,0,0,0,0,0,0,1
+mon mothma,150.0,83.0,auburn,fair,blue,48bby,female,chandrila,0,0,0,0,0,0,0,1
+wicket systri warrick,88.0,20.0,brown,brown,brown,8bby,male,endor,0,0,0,0,0,0,0,1
+nien nunb,160.0,68.0,none,grey,black,8bby,male,sullust,0,1,0,0,0,0,0,1
+nute gunray,191.0,90.0,none,mottled green,red,92bby,male,cato neimoidia,0,0,1,1,1,0,0,0
+finis valorum,170.0,90.0,blond,fair,blue,91bby,male,coruscant,0,0,1,0,0,0,0,0
+watto,137.0,82.0,black,"blue, grey",yellow,52bby,male,toydaria,0,0,1,1,0,0,0,0
+sebulba,112.0,40.0,none,"grey, red",orange,52bby,male,malastare,0,0,1,0,0,0,0,0
