@@ -21,7 +21,7 @@ Nesta disciplica abordamos os seguintes temas:
 ## Estrutura do projeto
 O projeto consiste em uma aplicação simples dos conceitos vistos em sala de aula. Iremos desenvolver um pipeline completo da seguinte forma:
 
-![alt text](../de03_dataops/imgs/projeto.png)
+![alt text](imgs/projeto.png)
 
 ## Origem dos dados
 - https://swapi.dev/api/people/?

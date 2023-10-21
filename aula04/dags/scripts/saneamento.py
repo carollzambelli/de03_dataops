@@ -68,6 +68,13 @@ class Saneamento:
             if int(nul) == 0:
                 if len(self.data[self.data[col].isna()]) > 0:
                     raise Exception(f"{self.tabela} possui nulos acima do permitido")
+                
+    def check_key(self):
+        for col in self.colunas_new:
+            nul = self.metadado.loc[self.metadado['nome'] == col]['chave'].item()
+            if int(nul) == 1:
+                if len(self.data) != self.data[col].nunique():
+                    raise Exception(f"{self.tabela} chaves duplicadas")
 
     def save_work(self):
         try:
