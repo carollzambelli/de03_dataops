@@ -31,7 +31,7 @@ O projeto consiste em uma aplicação simples dos conceitos vistos em sala de au
 ## Requisitos
 - Formato da tabela de entrega: csv 
 - Frequência de atualização do dado: frequência de 1x por dia
-- Parâmetro de coleta: 1 página por dia 
+- Parâmetro de coleta: 1 página por requisição
 - Salvar logs do processo
 - Armazenamento dos dados brutos
 - Armazenamento dos dados saneados: Tratamento de tipos, nomes e nulos
